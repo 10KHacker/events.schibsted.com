@@ -1,1 +1,1 @@
-# events.schibsted.com
+# docs-stg.lyvecloud.seagate.com
